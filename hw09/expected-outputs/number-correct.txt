@@ -1,0 +1,11 @@
+- TestSeq.number_correct TestSeq.simplest_train TestSeq.docs14;
+val it = (3,4) : int * int
+
+- TestSeq.number_correct TestSeq.simple_train TestSeq.docs14;
+val it = (4,4) : int * int
+
+- TestSeq.number_correct TestSeq.cross_train TestSeq.docs14;
+val it = (4,4) : int * int
+
+- TestSeq.number_correct TestSeq.dups_train TestSeq.docs14;
+val it = (4,4) : int * int

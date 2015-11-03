@@ -1,0 +1,21 @@
+- TestSeq.print_predictions TestSeq.dups_train TestSeq.docs14;
+CORRECT
+Given Categories: ECAT 
+Predicted: ECAT
+stock 
+
+CORRECT
+Given Categories: GCAT 
+Predicted: GCAT
+congress 
+
+CORRECT
+Given Categories: GCAT 
+Predicted: GCAT
+court fell 
+
+CORRECT
+Given Categories: ECAT 
+Predicted: ECAT
+stock ticker 
+

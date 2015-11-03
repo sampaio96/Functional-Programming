@@ -1,0 +1,18 @@
+group is
+$/basis.cm
+../src/sequence/sources.cm
+ordered.sig
+dict.sig
+sequtils.sig
+mapreduce.sig
+mapreduce.sml
+ordered.sml
+dict.sml
+sequtils.sml
+extractcombine.sig
+extractcombine.sml
+wordfreq.sml
+
+classify.sig
+classify.sml
+testclassify.sml

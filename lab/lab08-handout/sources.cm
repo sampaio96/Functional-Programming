@@ -1,0 +1,8 @@
+(* Note: this file won't load until you make TreeDict.sml and put a module in it *)
+
+Group is
+	$/basis.cm
+
+	LabDict.sig
+	TreeDict.sml
+	count.sml

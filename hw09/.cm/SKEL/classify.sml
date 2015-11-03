@@ -1,0 +1,2 @@
+Skeleton 5
+ae"NaiveBayes"i2aä¢ClassSpec"h2aä¢Category"gp1c"ORDERED"aä¢Dataset"gp1c"MAP_REDUCE"f5Cd"Int"d"Seq"d"Math"d"Real"ÿNjh5Caÿ9gp2ÿÿ9aä¢WordEC"jh2aä¢Key"gp1d"StringLt"aä¢MR"gp1d"SeqMR"çð±å¢ExtractCombine"ad"WordDict"gp2ÿ‚ä¢D"aä¢CatEC"jh2aÿ‚gp2ÿÿ aÿ‚$gp1ÿ9ÿ‚4ad"CatDict"gp2ÿƒÿƒNgp1c"NAIVE_BAYES_CLASSIFIER"

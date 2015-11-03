@@ -1,0 +1,95 @@
+- TestSeq.print_possibles TestSeq.simplest_train TestSeq.doc1;
+Given Categories: ECAT 
+Scores:
+  ECAT ~0.69314718056
+  GCAT ~1.38629436112
+
+- TestSeq.print_possibles TestSeq.simplest_train TestSeq.doc2;
+Given Categories: GCAT 
+Scores:
+  ECAT ~1.38629436112
+  GCAT ~0.69314718056
+
+- TestSeq.print_possibles TestSeq.simplest_train TestSeq.doc3;
+Given Categories: GCAT 
+Scores:
+  ECAT ~2.07944154168
+  GCAT ~2.07944154168
+
+- TestSeq.print_possibles TestSeq.simplest_train TestSeq.doc4;
+Given Categories: ECAT 
+Scores:
+  ECAT ~1.38629436112
+  GCAT ~2.07944154168
+
+- TestSeq.print_possibles TestSeq.simple_train TestSeq.doc1;
+Given Categories: ECAT 
+Scores:
+  ECAT ~1.38629436112
+  GCAT ~2.07944154168
+
+- TestSeq.print_possibles TestSeq.simple_train TestSeq.doc2;
+Given Categories: GCAT 
+Scores:
+  ECAT ~2.07944154168
+  GCAT ~1.38629436112
+
+- TestSeq.print_possibles TestSeq.simple_train TestSeq.doc3;
+Given Categories: GCAT 
+Scores:
+  ECAT ~3.4657359028
+  GCAT ~2.77258872224
+
+- TestSeq.print_possibles TestSeq.simple_train TestSeq.doc4;
+Given Categories: ECAT 
+Scores:
+  ECAT ~2.77258872224
+  GCAT ~3.4657359028
+
+- TestSeq.print_possibles TestSeq.cross_train TestSeq.doc1;
+Given Categories: ECAT 
+Scores:
+  ECAT ~1.79175946923
+  GCAT ~2.30258509299
+
+- TestSeq.print_possibles TestSeq.cross_train TestSeq.doc2;
+Given Categories: GCAT 
+Scores:
+  ECAT ~2.30258509299
+  GCAT ~1.79175946923
+
+- TestSeq.print_possibles TestSeq.cross_train TestSeq.doc3;
+Given Categories: GCAT 
+Scores:
+  ECAT ~3.40119738166
+  GCAT ~2.8903717579
+
+- TestSeq.print_possibles TestSeq.cross_train TestSeq.doc4;
+Given Categories: ECAT 
+Scores:
+  ECAT ~3.40119738166
+  GCAT ~3.91202300543
+
+- TestSeq.print_possibles TestSeq.dups_train TestSeq.doc1;
+Given Categories: ECAT 
+Scores:
+  ECAT ~1.38629436112
+  GCAT ~2.07944154168
+
+- TestSeq.print_possibles TestSeq.dups_train TestSeq.doc2;
+Given Categories: GCAT 
+Scores:
+  ECAT ~2.07944154168
+  GCAT ~1.38629436112
+
+- TestSeq.print_possibles TestSeq.dups_train TestSeq.doc3;
+Given Categories: GCAT 
+Scores:
+  ECAT ~3.4657359028
+  GCAT ~2.77258872224
+
+- TestSeq.print_possibles TestSeq.dups_train TestSeq.doc4;
+Given Categories: ECAT 
+Scores:
+  ECAT ~2.77258872224
+  GCAT ~3.4657359028

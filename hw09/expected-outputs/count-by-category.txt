@@ -1,0 +1,39 @@
+TestSeq.print_counts_by_category TestSeq.simplest_train;
+Category: ECAT
+  Num docs:1
+    stock 1
+Category: GCAT
+  Num docs:1
+    congress 1
+
+- TestSeq.print_counts_by_category TestSeq.simple_train;
+Category: ECAT
+  Num docs:1
+    price 1
+    stock 1
+Category: GCAT
+  Num docs:1
+    congress 1
+    court 1
+
+- TestSeq.print_counts_by_category TestSeq.cross_train;
+Category: ECAT
+  Num docs:1
+    fell 1
+    price 1
+    stock 1
+Category: GCAT
+  Num docs:1
+    congress 1
+    court 1
+    fell 1
+
+- TestSeq.print_counts_by_category TestSeq.dups_train;
+Category: ECAT
+  Num docs:1
+    price 2
+    stock 2
+Category: GCAT
+  Num docs:1
+    congress 2
+    court 2

@@ -1,0 +1,2 @@
+Skeleton 5
+d3f3d"Int"d"Seq"d"TextIO"ad"SeqMR"êè0çð±ã¢MAP_REDUCE"ad"FileMR"ÿ"

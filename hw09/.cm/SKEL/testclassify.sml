@@ -1,0 +1,2 @@
+Skeleton 5
+d3aå¢TestClassify"i2aä¢Dataset"gp1c"MAP_REDUCE"f5Cd"Int"ä¢Seq"d"Real"ÿä¢SeqUtils"Njh1ad"C"jh2ad"Category"gp1d"StringLt"aÿgp1ÿgp1e"NaiveBayes"h0ad"TestSeq"h3aä¢TC"jgp1d"SeqMR"çğ±ÿåçğ±ÿ‚ egp1ÿad"TestFile"h3aÿ‚ jgp1d"FileMR"ÿ‚1ÿ‚6f7ÿ8d"Time"Cd"String"d"TextIO"d"Timer"ÿd"IntInf"N

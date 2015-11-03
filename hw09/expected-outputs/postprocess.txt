@@ -1,0 +1,31 @@
+- TestSeq.print_postprocess TestSeq.simplest_train;
+All categories: ECAT GCAT 
+Total number of documents:2
+Total number of distinct words:2
+Number of words by category:
+  ECAT 1
+  GCAT 1
+
+- TestSeq.print_postprocess TestSeq.simple_train;
+All categories: ECAT GCAT 
+Total number of documents:2
+Total number of distinct words:4
+Number of words by category:
+  ECAT 2
+  GCAT 2
+
+- TestSeq.print_postprocess TestSeq.cross_train;
+All categories: ECAT GCAT 
+Total number of documents:2
+Total number of distinct words:5
+Number of words by category:
+  ECAT 3
+  GCAT 3
+
+- TestSeq.print_postprocess TestSeq.dups_train;
+All categories: ECAT GCAT 
+Total number of documents:2
+Total number of distinct words:4
+Number of words by category:
+  ECAT 4
+  GCAT 4
